@@ -1,40 +1,33 @@
-<!--
-**Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->  
-
-<h1 align="center"> 👋 </h1>
-<div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div>
-<p align="center"> (Open for Hiring)</p>
+<h1 align="center">  Hi everybody 👋</h1>
+  <br>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  <samp> Estou sempre em busca de novos desafios, faço faculdade na UTFPR de Guarapuava, cursando Tecnologia de Sistemas para Internet, mesmo estando muito confortavel com a minha stack atual, continuo estudando novas tecnologias para me aperfeiçoar, pois a minha paixão é a programação!
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
 </p>
 
-<hr>
-
-<h2 align="center"> 🔭 Tools of Trade</h2>
+<h1 align="center">🔭 Minhas Experiências Profissionais</h1>
+<br>
+<h2 align="center">ArcH - Back-end Developer</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+  <strong>novembro de 2022 - Present (9 meses)</strong><br>
+  Remoto
 </p>
-<p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
-
+<p>
+  Minhas funções englobam criação de projetos para diversos clientes, comecei criando soluções mais específicas como REST API's utilizando .NET e C#, e também bibliotecas para o framework de integração. Atualmente, estou mais por dentro da área de DevOps da empresa, provisionando ambientes de Cloud computing com AWS, Azure DevOps, Google CPC, e soluções de CI-CD.
+</p>
+<br>
+<h2 align="center">Simtec - Estagiário de desenvolvimento de sistemas</h2>
+<p align="center">
+  <strong>maio de 2022 - novembro de 2022 (7 meses)</strong>
+</p>
+<p>
+  Estágio em Programação de software ERP, para Windows Desktop utilizando majoritariamente C#, .NET e SQL Server. Fui responsável pela criação do instalador e atualizador do sistema, utilizando bibliotecas web de download e também bibliotecas de manipulação de arquivos e stream de dados.
+</p>
 <hr>
 
-<h2 align="center">💬 My Blog Articles</h2>
-<p align="center" align='right'>
-  <a target="_blank"href="https://dev.to/ileriayo"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://medium.com/@ileriayoadebiyi"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-<hr>
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
