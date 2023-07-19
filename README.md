@@ -5,6 +5,10 @@
 <p align="center">
   <samp> Estou sempre em busca de novos desafios, faço faculdade na UTFPR de Guarapuava, cursando Tecnologia de Sistemas para Internet, mesmo estando muito confortavel com a minha stack atual, continuo estudando novas tecnologias para me aperfeiçoar, pois a minha paixão é a programação!
   </samp>
+   <br>
+  <br>
+  <samp> Brazilian student of I.T trying to improve my coding skills and show some of what I got. I'm currently focusing my studies into Golang, and Angular.
+  </samp>
   <br> <br>
 </p>
 
