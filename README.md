@@ -1,43 +1,60 @@
-<h1 align="center">  Hi everybody 👋</h1>
-  <br>
+# 👨‍💻 Whoami
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
-<p align="center">
-  <samp> Estou sempre em busca de novos desafios, faço faculdade na UTFPR de Guarapuava, cursando Tecnologia de Sistemas para Internet, mesmo estando muito confortavel com a minha stack atual, continuo estudando novas tecnologias para me aperfeiçoar, pois a minha paixão é a programação!
-  </samp>
-   <br>
-  <br>
-  <samp> Brazilian student of I.T trying to improve my coding skills and show some of what I got. I'm currently focusing my studies into Golang, and Angular.
-  </samp>
-  <br> <br>
-</p>
+Software Enthusiast and Student of Internet Systems Technology at the Federal Technological University of Paraná (UTFPR) in Guarapuava. I bring extensive experience as a DevOps engineer, backend developer, and full stack developer, with a strong focus on scalable infrastructure, container orchestration, and CI/CD implementations.
 
-<h1 align="center">🔭 Minhas Experiências Profissionais</h1>
-<br>
-<h2 align="center">ArcH - Back-end Developer</h2>
-<p align="center">
-  <strong>novembro de 2022 - Present (9 meses)</strong><br>
-  Remoto
-</p>
-<p>
-  Minhas funções englobam criação de projetos para diversos clientes, comecei criando soluções mais específicas como REST API's utilizando .NET e C#, e também bibliotecas para o framework de integração. Atualmente, estou mais por dentro da área de DevOps da empresa, provisionando ambientes de Cloud computing com AWS, Azure DevOps, Google CPC, e soluções de CI-CD.
-</p>
-<br>
-<h2 align="center">Simtec - Estagiário de desenvolvimento de sistemas</h2>
-<p align="center">
-  <strong>maio de 2022 - novembro de 2022 (7 meses)</strong>
-</p>
-<p>
-  Estágio em Programação de software ERP, para Windows Desktop utilizando majoritariamente C#, .NET e SQL Server. Fui responsável pela criação do instalador e atualizador do sistema, utilizando bibliotecas web de download e também bibliotecas de manipulação de arquivos e stream de dados.
-</p>
-<hr>
+## SUMMARY
 
+**Full Stack Developer & DevOps Engineer**  
+**.NET FullStack Developer -- StoneX** | 04/2024 - Present  
+- Developed a **Mass Payments Workflow System**, leading the design and implementation to ensure efficient and secure financial transactions.
+- Created responsive, user-friendly frontend components and pages using **Next.js**, with a focus on optimizing user experience across various devices.
+- Worked with **Azure Service Bus** and **Blob Storage** to implement messaging solutions and ensure secure data storage.
 
-<h2  align="center">📫 Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/murilo-marcal-a66401219/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+**DevOps Engineer -- ArchOffice** | 03/2023 - 04/2024  
+- Experience with **.NET Framework** using **Entity Framework** and writing unit tests with **XUnit**.
+- Expertise in **Linux operating systems** and containerization using **Docker** and **Podman**.
+- Implemented and developed **Kubernetes clusters** for container orchestration.
+- Mastered the creation of scalable, automated infrastructure using **Terraform** and **Ansible**.
+- Optimized **CI/CD pipelines** to ensure continuous delivery.
+- Worked with public clouds such as **AWS**, **Azure**, and **GCP**.
 
-<hr>
+**.NET Backend Developer -- ArchOffice** | 08/2022 - 03/2023  
+- Worked extensively with the **.NET Framework** and **Entity Framework**, writing unit tests using **XUnit**.
+- Expertise in **Linux systems** and **containerization** using **Docker** and **Podman**.
+- Developed and implemented **Kubernetes clusters** for container orchestration.
+- Built scalable, automated infrastructure with **Terraform** and **Ansible**.
+- Ensured efficient **CI/CD pipeline** implementation for continuous delivery.
 
-<h2  align="center"> Check Out My Repos ⬇️ </h2>
+**Full Stack .NET Intern -- Simtec** | 04/2023 - 08/2023  
+- Internship in **ERP software programming** for Windows Desktop using **C#**, **.NET**, and **SQL**.
+- Created system installers and updaters using web download libraries and file manipulation/data stream libraries.
+- Developed **mobile applications** using **.NET MAUI**.
+
+---
+
+## SKILLS
+
+- Full Stack Web Development (Next.js, React, Angular, .NET)
+- Backend Development (C#, .NET, Entity Framework)
+- DevOps Engineering (Terraform, Ansible, Docker, Kubernetes, Podman)
+- Cloud Infrastructure (AWS, Azure, GCP)
+- CI/CD Pipeline Implementation and Optimization
+- RESTful API Development
+- Design Patterns (Repository, Dependency Injection, Factory, Singleton)
+- Linux Systems and Container Orchestration
+
+---
+
+## EDUCATION
+
+**Federal Technological University of Paraná (UTFPR)** | 2022 - 2025  
+**Degree**: Internet Systems Technology
+
+---
+
+## 📫 Reach me on
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-marcal-a66401219/)
+
+---
+
+## Check Out My Repos ⬇️
