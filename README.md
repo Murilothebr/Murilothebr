@@ -4,7 +4,6 @@ Software Enthusiast and Student of Internet Systems Technology at the Federal Te
 
 ## SUMMARY
 
-**Full Stack Developer & DevOps Engineer**  
 **.NET FullStack Developer -- StoneX** | 04/2024 - Present  
 - Developed a **Mass Payments Workflow System**, leading the design and implementation to ensure efficient and secure financial transactions.
 - Created responsive, user-friendly frontend components and pages using **Next.js**, with a focus on optimizing user experience across various devices.
